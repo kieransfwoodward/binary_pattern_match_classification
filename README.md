@@ -1,3 +1,6 @@
+[![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC_BY--NC_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
+
+
 # binary_pattern_match_classification
 
 This repository contains a Python notebook that demonstrates binarized pattern matching using neural networks. The project leverages the CIFAR-10 dataset to train a model that can perform pattern matching on binarized images.
